@@ -82,13 +82,31 @@ Me apasiona crear soluciones tecnológicas innovadoras que generen un impacto so
 
 </div>
 
-## 🏆 Logros y Reconocimientos
+## 🏆 Logros y Actividades Extracurriculares
 
-- 🎓 **Presidente del CaDCC** - Centro de Alumnos del DCC, FCFM (2025)
-- ⭐ **Estudiante Destacado** - Plan Común de Ingeniería y Ciencias (2020-2022)
-- 👥 **Encargado de Bienestar** - CaDCC (2024)
-- 🏃 **Miembro Rama de Atletismo** - FCFM (2022)
-- 📺 **Creador de Contenido** - Canal RelaxShores (+1,900 suscriptores)
+- 🎓 **Presidente del Centro de Alumnos del DCC (CaDCC), FCFM** (2025)
+  - Electo en noviembre 2024
+  - Liderazgo de iniciativas académicas, de bienestar, comunidad y participación estudiantil
+  
+- ⭐ **Estudiante Destacado** (2020-2022)
+  - Reconocido por excelencia académica en el Plan Común de Ingeniería y Ciencias, FCFM, Universidad de Chile
+
+- 👥 **Centro de Estudiantes** (2023-2024)
+  - Integrante de lista del Centro de Estudiantes de Ingeniería (CEI) a cargo de Bienestar (2023)
+  - Encargado de Bienestar en el CaDCC (2024)
+
+- 👨‍🏫 **Inductor de Estudiantes** (2024)
+  - Acompañamiento y orientación a estudiantes de primer año durante todo el año académico
+
+- 🏃 **Miembro Rama de Atletismo** (2022)
+  - Representación de la FCFM en competencias y entrenamientos
+
+- 🏗️ **Trabajos de Verano FECH** (2023)
+  - Participación en reconstrucción de viviendas en Viña del Mar, sector Tranque Sur
+  - Colaboración con estudiantes de distintas facultades
+
+- 📺 **Creador de Contenido en YouTube**
+  - Canal de relajación "RelaxShores" con más de 1,900 suscriptores
 
 ## 🌐 Idiomas
 
@@ -101,7 +119,7 @@ Me apasiona crear soluciones tecnológicas innovadoras que generen un impacto so
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloreyespomes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pablo-reyes-pomes/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/King-PR)
 
 📱 **Teléfono:** +56 9 5716 4248
