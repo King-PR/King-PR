@@ -52,16 +52,16 @@ Me apasiona crear soluciones tecnológicas innovadoras que generen un impacto so
 
 ## 💼 Proyectos Destacados
 
+### 🌐 Desarrollo Web
+- **Plataforma de Actividades Recreativas** (Flask, Django, MySQL)
+- **Aplicación Web con Geolocalización** (Flask, Django)
+- **Club Deportivo Anakena** (React, Node.js, APIs)
+
 ### 🎮 Juegos y Gráficos
 - **Malatro** - Clon de Balatro (Scala + JavaFX)
 - **Lucky Ball** - Juego con física y colisiones (OpenGL + Shaders)
 - **Katamari** - Implementación con shaders avanzados (OpenGL)
 - **Floppy Bird** - Clon de Flappy Bird (OpenGL + Pyglet)
-
-### 🌐 Desarrollo Web
-- **Plataforma de Actividades Recreativas** (Flask, Django, MySQL)
-- **Aplicación Web con Geolocalización** (Flask, Django)
-- **Club Deportivo Anakena** (React, Node.js, APIs)
 
 ### 📊 Análisis de Datos
 - **Base de Datos Olímpica** (PostgreSQL + Python)
