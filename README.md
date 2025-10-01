@@ -14,7 +14,7 @@ Me apasiona crear soluciones tecnológicas innovadoras que generen un impacto so
 
 - 🔭 Actualmente trabajando como **Ayudante de Curso** en Metodologías de Diseño y Programación
 - 🌱 Aprendiendo constantemente sobre nuevas tecnologías y mejores prácticas
-- 👯 Busco colaborar en proyectos de impacto social
+- 🤝 Busco colaborar en proyectos de impacto social
 - 📫 Contáctame: **pabloreyespomes@gmail.com**
 - ⚡ Dato curioso: Tengo un canal de YouTube de relajación con +1,900 suscriptores
 
