@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de 4° año de **Ingeniería Civil en Computación** en la Universidad de Chile, con dominio nativo del inglés y español. Actualmente soy **Presidente del Centro de Alumnos del DCC (CaDCC)** 🎓
+Soy estudiante de 4° año de **Ingeniería Civil en Computación** en la Universidad de Chile, con dominio nativo del inglés y español. Fui **Presidente del Centro de Alumnos del DCC (CaDCC)** el año 2025🎓
 
 Me apasiona crear soluciones tecnológicas innovadoras que generen un impacto social positivo. Tengo experiencia en desarrollo web, computación gráfica, bases de datos y análisis de datos.
 
