@@ -18,7 +18,8 @@ Soy estudiante de 4° año de **Ingeniería Civil en Computación** en la Univer
 
 Me apasiona crear soluciones tecnológicas innovadoras que generen un impacto social positivo. Tengo experiencia en desarrollo web, computación gráfica, bases de datos y análisis de datos.
 
-- 🔭 Actualmente trabajando como **Ayudante de Curso** en Metodologías de Diseño y Programación
+- 📌 Actualmente trabajando como Desarrollador Fullstack Junior en **GeoVictoria** (SAT Ops TI)
+- 🔭 Fui **Ayudante de Curso** en Metodologías de Diseño y Programación
 - 🌱 Aprendiendo constantemente sobre nuevas tecnologías y mejores prácticas
 - 📫 Contáctame: **pabloreyespomes@gmail.com**
 - ⚡ Dato curioso: Tengo un canal de YouTube de relajación con +1,900 suscriptores
